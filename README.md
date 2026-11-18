@@ -329,7 +329,7 @@ This project is developed for the Smart India Hackathon 2024 under the Ministry 
 
 ## 👥 Team
 
-- **AI Developer**: Aryan Farswan
+- **AI Developer**: Sidhant Jha
 - **Problem Statement**: AI-Based Smart Allocation Engine for PM Internship Scheme
 - **Organization**: Ministry of Corporate Affairs
 
